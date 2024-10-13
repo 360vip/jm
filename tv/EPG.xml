@@ -78,6 +78,9 @@
 	<programme channel="4K综艺" start="20241013123700 +0800" stop="20241013132300 +0800">
 		<title lang="zh">小小的追球20200101</title>
 	</programme>
+	<programme channel="4K综艺" start="20241013132300 +0800" stop="20241013144300 +0800">
+		<title lang="zh">小小的追球20200107</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -79444,6 +79447,9 @@
 	<programme channel="newtv超级综艺" start="20241013123100 +0800" stop="20241013133100 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241013133100 +0800" stop="20241013152000 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79485,6 +79491,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20241013130000 +0800" stop="20241013133000 +0800">
 		<title lang="zh">2024国际皮划艇联合会“杭州超级杯”-静水双人艇 决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241013133000 +0800" stop="20241013143000 +0800">
+		<title lang="zh">2024年世界职业拳王争霸赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -79837,6 +79846,9 @@
 	<programme channel="newtv家庭剧场" start="20241013122800 +0800" stop="20241013131700 +0800">
 		<title lang="zh">AMOS高聚能养生钛锅（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241013131700 +0800" stop="20241013140800 +0800">
+		<title lang="zh">28_北部湾人家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79917,6 +79929,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241013123600 +0800" stop="20241013132500 +0800">
 		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241013132500 +0800" stop="20241013142000 +0800">
+		<title lang="zh">07_乡村爱情8：浪漫曲（上）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80017,6 +80032,9 @@
 	<programme channel="newtv怡伴健康" start="20241013130700 +0800" stop="20241013131700 +0800">
 		<title lang="zh">小品《吃饺子》 表演：赵丽蓉 李文启</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241013131700 +0800" stop="20241013140600 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80061,6 +80079,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241013123100 +0800" stop="20241013131700 +0800">
 		<title lang="zh">32_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241013131700 +0800" stop="20241013140200 +0800">
+		<title lang="zh">33_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80193,6 +80214,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241013131100 +0800" stop="20241013132000 +0800">
 		<title lang="zh">点赞新时代-乌兰图雅</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241013132700 +0800" stop="20241013140500 +0800">
+		<title lang="zh">第3期：妈妈为女儿安排122次相亲</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80397,6 +80421,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241013123000 +0800" stop="20241013132500 +0800">
 		<title lang="zh">11_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241013132500 +0800" stop="20241013140300 +0800">
+		<title lang="zh">轻又清菊粉复合益生元-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
