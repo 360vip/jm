@@ -1,0 +1,87 @@
+name: 更新
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 15 */6 * * *
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+          token: ${{ secrets.LIVELIST }}
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: 更新
+      run: |
+        # 央视源
+        rm -f tv/CC.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O tv/CC.m3u
+        sed -i -n '/央视频道/,+1p' tv/CC.m3u
+        sed -i '1i #EXTM3U' tv/CC.m3u
+        sed -i '/^\s*$/d' tv/CC.m3u
+
+        # 卫视源
+        rm -f tv/CN.m3u && touch tv/CN.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV1.m3u && sed -i -n '/卫视频道/,+1p' CNTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV2.m3u && sed -i -n '/数字频道/,+1p' CNTV2.m3u
+        wget https://raw.githubusercontent.com/vbskycn/guovin-TV/refs/heads/master/output/mylist.m3u -O CNTV3.m3u && sed -i -n '/港澳台/,+1p' CNTV3.m3u
+        wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O CNTV4.m3u && sed -i -n '/电影频道/,+1p' CNTV4.m3u
+        wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O CNTV5.m3u && sed -i -n '/体育频道/,+1p' CNTV5.m3u
+        wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O CNTV6.m3u && sed -i -n '/综艺频道/,+1p' CNTV6.m3u
+        cat CNTV1.m3u >> tv/CN.m3u
+        cat CNTV2.m3u >> tv/CN.m3u
+        cat CNTV3.m3u >> tv/CN.m3u
+        cat CNTV4.m3u >> tv/CN.m3u
+        cat CNTV5.m3u >> tv/CN.m3u
+        cat CNTV6.m3u >> tv/CN.m3u
+        rm -f CNTV1.m3u CNTV2.m3u CNTV3.m3u CNTV4.m3u CNTV5.m3u CNTV6.m3u
+        sed -i '1i #EXTM3U' tv/CN.m3u
+        sed -i '/^\s*$/d' tv/CN.m3u
+
+        # 电影源
+        rm -f tv/DY.m3u && touch tv/DY.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV1.m3u && sed -i -n '/NewTV「IPV6」/,+1p' DYTV1.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV2.m3u && sed -i -n '/游戏「赛事」/,+1p' DYTV2.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV3.m3u && sed -i -n '/埋堆「轮播」/,+1p' DYTV3.m3u
+        cat DYTV1.m3u >> tv/DY.m3u
+        cat DYTV2.m3u >> tv/DY.m3u
+        cat DYTV3.m3u >> tv/DY.m3u
+        rm -f DYTV1.m3u DYTV2.m3u DYTV3.m3u
+        sed -i '1i #EXTM3U' tv/DY.m3u
+        sed -i '/^\s*$/d' tv/DY.m3u
+
+        # 轮播源
+        rm -f tv/LB.m3u && wget https://raw.githubusercontent.com/168xx/tools/refs/heads/main/LB.m3u -O tv/LB.m3u
+
+        # 整合源
+        rm -f tv/tv.m3u && touch tv/tv.m3u
+        cat tv/CC.m3u >> tv/tv.m3u
+        cat tv/CN.m3u >> tv/tv.m3u
+        cat tv/DY.m3u >> tv/tv.m3u
+        cat tv/LB.m3u >> tv/tv.m3u
+        sed -i '/#EXTM3U/d' tv/tv.m3u
+        sed -i '1i #EXTM3U' tv/tv.m3u
+        sed -i '/^\s*$/d' tv/tv.m3u
+
+        # 节目源
+        rm -f tv/EPG.xml && wget https://epg.112114.xyz/pp.xml -O tv/EPG.xml
+
+    - name: Commit 和 push changes
+      run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # 即使没有文件改变，也会提交一个空的提交
+          git commit --allow-empty -m "Scheduled workflow run"
+          git pull --rebase
+          git push -f
