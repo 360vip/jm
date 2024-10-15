@@ -56,12 +56,12 @@ jobs:
         wget https://live.zbds.top/tv/iptv6.m3u -O CNTV44.m3u && sed -i -n '/电影频道/,+1p' CNTV44.m3u
         wget https://live.zbds.top/tv/iptv6.m3u -O CNTV55.m3u && sed -i -n '/体育频道/,+1p' CNTV55.m3u
         wget https://live.zbds.top/tv/iptv6.m3u -O CNTV66.m3u && sed -i -n '/综艺频道/,+1p' CNTV66.m3u
-        cat CNTV1.m3u >> tv/CN1.m3u
-        cat CNTV2.m3u >> tv/CN1.m3u
-        cat CNTV3.m3u >> tv/CN1.m3u
-        cat CNTV4.m3u >> tv/CN1.m3u
-        cat CNTV5.m3u >> tv/CN1.m3u
-        cat CNTV6.m3u >> tv/CN1.m3u
+        cat CNTV11.m3u >> tv/CN1.m3u
+        cat CNTV22.m3u >> tv/CN1.m3u
+        cat CNTV33.m3u >> tv/CN1.m3u
+        cat CNTV44.m3u >> tv/CN1.m3u
+        cat CNTV55.m3u >> tv/CN1.m3u
+        cat CNTV66.m3u >> tv/CN1.m3u
         rm -f CNTV11.m3u CNTV22.m3u CNTV33.m3u CNTV44.m3u CNTV55.m3u CNTV66.m3u
         sed -i '1i #EXTM3U' tv/CN1.m3u
         sed -i '/^\s*$/d' tv/CN1.m3u
