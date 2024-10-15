@@ -48,6 +48,24 @@ jobs:
         sed -i '1i #EXTM3U' tv/CN.m3u
         sed -i '/^\s*$/d' tv/CN.m3u
 
+        # 备份源
+        rm -f tv/CN1.m3u && touch tv/CN1.m3u
+        wget https://live.zbds.top/tv/iptv6.m3u -O CNTV1.m3u && sed -i -n '/央视频道/,+1p' CNTV11.m3u
+        wget https://live.zbds.top/tv/iptv6.m3u -O CNTV2.m3u && sed -i -n '/卫视频道/,+1p' CNTV22.m3u
+        wget https://live.zbds.top/tv/iptv6.m3u-O CNTV3.m3u && sed -i -n '/数字频道/,+1p' CNTV33.m3u
+        wget https://live.zbds.top/tv/iptv6.m3u -O CNTV4.m3u && sed -i -n '/电影频道/,+1p' CNTV44.m3u
+        wget https://live.zbds.top/tv/iptv6.m3u -O CNTV5.m3u && sed -i -n '/体育频道/,+1p' CNTV55.m3u
+        wget https://live.zbds.top/tv/iptv6.m3u -O CNTV6.m3u && sed -i -n '/综艺频道/,+1p' CNTV66.m3u
+        cat CNTV1.m3u >> tv/CN1.m3u
+        cat CNTV2.m3u >> tv/CN1.m3u
+        cat CNTV3.m3u >> tv/CN1.m3u
+        cat CNTV4.m3u >> tv/CN1.m3u
+        cat CNTV5.m3u >> tv/CN1.m3u
+        cat CNTV6.m3u >> tv/CN1.m3u
+        rm -f CNTV11.m3u CNTV22.m3u CNTV33.m3u CNTV44.m3u CNTV55.m3u CNTV66.m3u
+        sed -i '1i #EXTM3U' tv/CN1.m3u
+        sed -i '/^\s*$/d' tv/CN1.m3u
+
         # 电影源
         rm -f tv/DY.m3u && touch tv/DY.m3u
         wget https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u -O DYTV1.m3u && sed -i -n '/NewTV「IPV6」/,+1p' DYTV1.m3u
@@ -65,6 +83,7 @@ jobs:
 
         # 整合源
         rm -f tv/tv.m3u && touch tv/tv.m3u
+        cat tv/CN1.m3u >> tv/tv.m3u
         cat tv/CC.m3u >> tv/tv.m3u
         cat tv/CN.m3u >> tv/tv.m3u
         cat tv/DY.m3u >> tv/tv.m3u
