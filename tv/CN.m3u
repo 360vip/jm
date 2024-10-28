@@ -509,10 +509,12 @@ http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342
 http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/1.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-id="东方影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视-light.png" group-title="电影频道", 东方影视
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="" group-title="电影频道", 哈哈炫动
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226618/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="" group-title="电影频道", 黑龙江影视
 http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225973/main.m3u8
 #EXTINF:-1 tvg-name="家庭影院" tvg-id="家庭影院" tvg-logo="" group-title="电影频道", 家庭影院
-http://[2409:8087:5e00:24::1e]:6060/000000001000/6316377948248689070/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000008284/1.m3u8
 #EXTINF:-1 tvg-name="超级电影" tvg-id="超级电影" tvg-logo="" group-title="电影频道", 超级电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012884/1.m3u8
 #EXTINF:-1 tvg-name="iHOT爱院线" tvg-id="iHOT爱院线" tvg-logo="" group-title="电影频道", iHOT爱院线
