@@ -338,7 +338,7 @@ CETV-4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$订阅源
-凤凰资讯,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8$订阅源
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8?accountinfo=nVl%2FlxGDEXj8XkZipP8ISUVer4GPjw2QG0O4MRQi3g%2BEwuqkCa8s3JpukCy66ZXVAeAMYEBqNpar07yBf7G6quSAYws6gdT4%2FtVH%2Bc7R53mLahL3Oe72TRbm52ZvruhJFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026031902%2C4999656%2C36.156.32.23%2C20241026031902%2CHD-10000k-1080P-fhhongkong5s%2C1734275458503_D1%3A1F%3A8C%3ABC%3A76%3ACD%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268434_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhhongkong5s%2FHD-10000k-1080P-fhhongkong5s&icpid=88888888&from=5&popid=5&hms_devid=6448&prioritypopid=5$订阅源
 凤凰香港,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8?accountinfo=zZFAoaFBf0eeoBboZZ7f2LG%2Bb0LrBOSBfEzhwiBMvngq%2FpkEzcEgSA5jxU7E691yLgLXQIrVnITSKe4cR7UMbSd2y6TJst%2Bjh31VKZhtgiKIZEDSyu578hnwyF2DFwHcbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090828%2C-1%2C112.25.63.228%2C20241025090828%2CHD-10000k-1080P-fhhongkong5s%2C1734208302178_77%3A98%3AB2%3A9A%3AA8%3A67%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268434_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhhongkong5s%2FHD-10000k-1080P-fhhongkong5s&icpid=88888888&from=5&popid=5&hms_devid=6448&prioritypopid=5$订阅源
@@ -355,8 +355,6 @@ CETV-4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$订阅源|1920x1080
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$订阅源
-香港佛陀,http://122.152.202.33/s/81a8a44f/index.m3u8?id=13$订阅源
-TVB新闻,http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 TVB翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8$订阅源|1920x1080
 TVB明珠,http://r.jdshipin.com/ZQ4kN$订阅源
 TVB星河,http://r.jdshipin.com/sXuuD$订阅源
@@ -372,12 +370,14 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&
 RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10$订阅源|1920x1080
 ViuTVsix,https://live.astradamy.com/viutv6/index.m3u8$订阅源
 NOWTV,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8$订阅源|1920x1080
+NOWTV,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源|1920x1080
 HKIBC,https://live.astradamy.com/hk33/index.m3u8$订阅源
 HKIBC,https://live.astradamy.com/hk76/index.m3u8$订阅源
 HKIBC,https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8$订阅源
 Viutv,http://r.jdshipin.com/vSJvl$订阅源
 Viutv,https://live.astradamy.com/viutv6/index.m3u8$订阅源
 Viutv,http://r.jdshipin.com/vSJv$订阅源
+澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8$订阅源
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8$订阅源
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$订阅源
