@@ -154,7 +154,7 @@ http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
-http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8$订阅源
+http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳台",凤凰香港
 http://r.jdshipin.com/yDoTN$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳台",凤凰香港
@@ -187,10 +187,6 @@ http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$订阅源|1920x1080
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台
 http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="香港佛陀" tvg-logo="https://live.fanmingming.com/tv/香港佛陀.png" group-title="港澳台",香港佛陀
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=13$订阅源
-#EXTINF:-1 tvg-name="TVB新闻" tvg-logo="https://live.fanmingming.com/tv/TVB新闻.png" group-title="港澳台",TVB新闻
-http://61.221.215.25:8800/hls/9/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠.png" group-title="港澳台",TVB翡翠
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://live.fanmingming.com/tv/TVB明珠.png" group-title="港澳台",TVB明珠
@@ -221,6 +217,8 @@ http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=
 https://live.astradamy.com/viutv6/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="NOWTV" tvg-logo="https://live.fanmingming.com/tv/NOWTV.png" group-title="港澳台",NOWTV
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8$订阅源|1920x1080
+#EXTINF:-1 tvg-name="NOWTV" tvg-logo="https://live.fanmingming.com/tv/NOWTV.png" group-title="港澳台",NOWTV
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="HKIBC" tvg-logo="https://live.fanmingming.com/tv/HKIBC.png" group-title="港澳台",HKIBC
 https://live.astradamy.com/hk33/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="HKIBC" tvg-logo="https://live.fanmingming.com/tv/HKIBC.png" group-title="港澳台",HKIBC
@@ -233,6 +231,8 @@ http://r.jdshipin.com/vSJvl$订阅源
 https://live.astradamy.com/viutv6/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://live.fanmingming.com/tv/Viutv.png" group-title="港澳台",Viutv
 http://r.jdshipin.com/vSJv$订阅源
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",澳视澳门
+http://183.237.246.14:9931/tsfile/live/1039_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
