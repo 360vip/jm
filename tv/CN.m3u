@@ -259,8 +259,6 @@ http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts$
 http://r.jdshipin.com/ndGgS$订阅源
 #EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://live.fanmingming.com/tv/TVB J2.png" group-title="港澳台",TVB J2
 http://r.jdshipin.com/Nr5jq$订阅源
-#EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://live.fanmingming.com/tv/TVB J2.png" group-title="港澳台",TVB J2
-http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e$订阅源
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港澳台",J2
 http://r.jdshipin.com/Nr5jq$订阅源
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港澳台",J2
@@ -281,10 +279,10 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8$订阅源
 http://r.jdshipin.com/vSJvl$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://live.fanmingming.com/tv/Viutv.png" group-title="港澳台",Viutv
 http://r.jdshipin.com/vSJv$订阅源
+#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://live.fanmingming.com/tv/Viutv.png" group-title="港澳台",Viutv
+http://cdn5.1678520.xyz/live/viu/stream48739.ts$订阅源|1920x1080
 #EXTINF:-1 tvg-name="18台" tvg-logo="https://live.fanmingming.com/tv/18台.png" group-title="港澳台",18台
 http://aktv.top/AKTV/stream/aktv/mytvsuper18/23300.ts?AK_KEY=1644898762$订阅源|1920x1080
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",澳视澳门
-http://183.237.246.14:9931/tsfile/live/1039_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
