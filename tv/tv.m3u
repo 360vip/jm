@@ -708,8 +708,6 @@ http://litv.zapi.us.kg/4g/?ts=https://litvpc-hichannel.cdn.hinet.net/live/pool/4
 #EXTINF:-1 tvg-name="TVB新闻" tvg-logo="https://live.fanmingming.com/tv/TVB新闻.png" group-title="港澳台",TVB新闻
 https://litv.zapi.us.kg/?ts=https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/4gtv-4gtv072-avc1_6000000=1-mp4a_134000_zho=2-begin=3112722920000000-dur=40000000-seq=77818073.ts$订阅源
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠.png" group-title="港澳台",TVB翡翠
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8$订阅源|1920x1080
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠.png" group-title="港澳台",TVB翡翠
 http://r.jdshipin.com/n90gt$订阅源
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠.png" group-title="港澳台",TVB翡翠
 http://r.jdshipin.com/qClQf$订阅源
@@ -723,6 +721,8 @@ https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源|1920x1080
 http://r.jdshipin.com/sXuuD$订阅源
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",TVB星河
 http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$订阅源|1920x1080
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳台",TVB星河
+http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="TVB plus" tvg-logo="https://live.fanmingming.com/tv/TVB plus.png" group-title="港澳台",TVB plus
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts$订阅源
 #EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://live.fanmingming.com/tv/TVB J2.png" group-title="港澳台",TVB J2
@@ -749,10 +749,10 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8$订阅源
 http://r.jdshipin.com/vSJvl$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://live.fanmingming.com/tv/Viutv.png" group-title="港澳台",Viutv
 http://r.jdshipin.com/vSJv$订阅源
+#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://live.fanmingming.com/tv/Viutv.png" group-title="港澳台",Viutv
+http://cdn5.1678520.xyz/live/viu/stream48739.ts$订阅源|1920x1080
 #EXTINF:-1 tvg-name="18台" tvg-logo="https://live.fanmingming.com/tv/18台.png" group-title="港澳台",18台
 http://aktv.top/AKTV/stream/aktv/mytvsuper18/23300.ts?AK_KEY=1644898762$订阅源|1920x1080
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="港澳台",澳视澳门
-http://183.237.246.14:9931/tsfile/live/1039_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd$订阅源
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",澳门莲花
