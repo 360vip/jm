@@ -450,6 +450,7 @@ J2,http://213.81.133.133:8080/jednotka/index.m3u8$订阅源
 J2,http://r.jdshipin.com/ndGgS$订阅源
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8$订阅源
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$订阅源
+ViuTVsix,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$订阅源|1920x1080
 NOWTV,https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8$订阅源|1920x1080
 NOWTV,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8$订阅源|1920x1080
 HKIBC,https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8$订阅源
