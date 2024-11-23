@@ -444,7 +444,6 @@ TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8$订阅源
 TVB plus,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts$订阅源
 TVB J2,http://r.jdshipin.com/ndGgS$订阅源
 TVB J2,http://r.jdshipin.com/Nr5jq$订阅源
-TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032$订阅源
 J2,http://r.jdshipin.com/Nr5jq$订阅源
 J2,http://213.81.133.133:8080/jednotka/index.m3u8$订阅源
 J2,http://r.jdshipin.com/ndGgS$订阅源
