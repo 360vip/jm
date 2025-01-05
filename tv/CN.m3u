@@ -220,13 +220,13 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000063/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="电影频道", 黑龙江影视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="体育频道", 睛彩篮球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="" group-title="体育频道", 快乐垂钓
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="精品体育" tvg-id="精品体育" tvg-logo="https://live.fanmingming.cn/tv/精品体育.png" group-title="体育频道", 精品体育
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="体育频道", 睛彩篮球
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://live.fanmingming.cn/tv/超级体育.png" group-title="体育频道", 超级体育
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="" group-title="体育频道", 快乐垂钓
@@ -238,4 +238,4 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="" group-title="综艺频道", 超级综艺
 http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="" group-title="综艺频道", 金牌综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225666/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
