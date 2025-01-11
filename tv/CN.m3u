@@ -103,10 +103,14 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://live.zbds.top/logo/超级体育.png" group-title="体育频道", 超级体育
 http://[2409:8087:1a0a:df::4016]:80/wh7f454c46tw2798497282_1170252542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.zbds.top/logo/快乐垂钓.png" group-title="体育频道", 快乐垂钓
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="iHOT爱体育" tvg-id="iHOT爱体育" tvg-logo="https://live.zbds.top/logo/IHOT爱体育.png" group-title="体育频道", iHOT爱体育
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="体育频道", 睛彩广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-name="热门综艺" tvg-id="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="综艺频道", 热门综艺
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://live.zbds.top/logo/超级综艺.png" group-title="综艺频道", 超级综艺
 http://[2409:8087:1a0a:df::4016]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.zbds.top/logo/金牌综艺.png" group-title="综艺频道", 金牌综艺
