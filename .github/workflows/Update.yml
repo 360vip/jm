@@ -25,7 +25,7 @@ jobs:
     - name: 更新
       run: |
         # 央视源
-        rm -f tv/CC.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O tv/CC.m3u
+        rm -f tv/CC.m3u && wget https://live.zbds.top/tv/iptv6.m3u -O tv/CC.m3u
         sed -i -n '/央视频道/,+1p' tv/CC.m3u
         sed -i '1i #EXTM3U' tv/CC.m3u
         sed -i '/^\s*$/d' tv/CC.m3u
@@ -50,7 +50,7 @@ jobs:
 
         # 备份源
         rm -f tv/CN1.m3u && touch tv/CN1.m3u
-        wget https://live.zbds.top/tv/iptv6.m3u -O CNTV11.m3u && sed -i -n '/央视频道/,+1p' CNTV11.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV11.m3u && sed -i -n '/央视频道/,+1p' CNTV11.m3u
         wget https://live.zbds.top/tv/iptv6.m3u -O CNTV22.m3u && sed -i -n '/卫视频道/,+1p' CNTV22.m3u
         wget https://live.zbds.top/tv/iptv6.m3u -O CNTV33.m3u && sed -i -n '/数字频道/,+1p' CNTV33.m3u
         wget https://live.zbds.top/tv/iptv6.m3u -O CNTV44.m3u && sed -i -n '/电影频道/,+1p' CNTV44.m3u
