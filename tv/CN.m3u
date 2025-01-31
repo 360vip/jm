@@ -77,7 +77,7 @@ http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab10771
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://live.zbds.top/logo/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-id="2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑莓电影.png" group-title="电影频道", 黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑莓电影.png" group-title="电影频道", 黑莓电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-id="黑龙江影视" tvg-logo="https://live.zbds.top/logo/黑龙江影视.png" group-title="电影频道", 黑龙江影视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
