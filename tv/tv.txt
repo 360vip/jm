@@ -52,38 +52,38 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视频道,#genre#
- 安徽卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226391/index.m3u8
- 北京卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226450/index.m3u8
- 东方卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226345/index.m3u8
- 东南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+ 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8
+ 北京卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225674/2/index.m3u8
+ 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225659/2/index.m3u8
+ 东南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225657/2/index.m3u8
  甘肃卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225724/2/index.m3u8
- 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225597/2/index.m3u8
+ 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225742/2/index.m3u8
  广西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225731/2/index.m3u8
- 贵州卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226474/index.m3u8
- 海南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
- 河北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
- 河南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225611/index.m3u8?fmt=ts2hls
- 湖北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8
- 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225490/2/index.m3u8
+ 贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
+ 海南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
+ 河北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225732/2/index.m3u8
+ 河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+ 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225699/2/index.m3u8
+ 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225704/2/index.m3u8
  吉林卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225680/2/index.m3u8
- 江苏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
- 江西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
- 辽宁卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225601/2/index.m3u8
+ 江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225743/2/index.m3u8
+ 江西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225705/2/index.m3u8
+ 辽宁卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225696/2/index.m3u8
  旅游卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226212/index.m3u8?fmt=ts2hls
- 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
+ 宁夏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225726/2/index.m3u8
  青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
- 山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
+ 山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225697/2/index.m3u8
  山西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
  陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
- 深圳卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
+ 深圳卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225700/2/index.m3u8
  四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
- 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8
+ 天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225739/2/index.m3u8
  西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
  新疆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
- 浙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
- 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225734/2/index.m3u8
- 东方卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226345/index.m3u8
- 黑龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225690/2/index.m3u8
+ 浙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225744/2/index.m3u8
+ 重庆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+ 东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225659/2/index.m3u8
+ 黑龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225736/2/index.m3u8
  金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -130,34 +130,34 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
 CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
-CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8
 CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
 CHC影迷电影,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-英叔,http://1.94.31.214:35455/huya/11342421
 发哥,http://1.94.31.214:35455/huya/11342387
 成龙,http://1.94.31.214:35455/huya/11342386
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf
+科幻电影,http://fy27.zbds.top:55455/yy/1354930209
 科幻电影,http://fy27.zbds.top:55455/yy/1355065896
 金鹰卡通,http://nas.hssvm.com:8888/udp/225.1.2.236:5002
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
+龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
@@ -165,15 +165,17 @@ AMC电影,http://104.244.79.187:5050/litv/4gtv-4gtv017
 28岁电影,http://fy27.zbds.top:55455/douyu/8884164
 3ABNKids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 3说电影,http://fy27.zbds.top:55455/douyu/9643264
-77说电影,http://fy27.zbds.top:55455/douyu/9444320
 8090电影一哥,http://fy27.zbds.top:55455/yy/29197808
+CHC电影,http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 FanpopTV,https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 JG影视解说,http://fy27.zbds.top:55455/douyu/9391277
 KuriakosKids,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 XilamTV,https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 X战警系列电影,http://fy27.zbds.top:55455/yy/1382736893
 iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
+七龙珠,http://dns.yiandrive.com:15907/huya/11601966
 万州影视Not247,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
 三七电影V,http://fy27.zbds.top:55455/douyu/9457792
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -182,22 +184,22 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 丽姐说电影,http://fy27.zbds.top:55455/douyu/9437283
 九叔说电影v,http://fy27.zbds.top:55455/douyu/9348282
-九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
 九品芝麻官,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4
+九品芝麻官,https://alimov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_b_B6a0bcfcdbdaac183fa7dcbcd3e11bcaf.mp4
 二哈讲电影,http://fy27.zbds.top:55455/douyu/8778280
 二胖影视,http://fy27.zbds.top:55455/douyu/10064260
 五分钟电影汇,http://fy27.zbds.top:55455/douyu/8443438
 享看电影,http://fy27.zbds.top:55455/douyu/8974130
-人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途之囧妈,https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
 传奇之王影视剧,http://fy27.zbds.top:55455/yy/1354926735
 伦帝电影说,http://fy27.zbds.top:55455/douyu/9368091
 伯乐说电影V,http://fy27.zbds.top:55455/douyu/9386057
-佛山影视,http://14.19.151.0:9900/udp/239.253.43.56:5146
 佛山影视,http://14.112.86.85:4022/udp/239.253.43.56:5146
+佛山影视,http://14.19.151.0:9900/udp/239.253.43.56:5146
 佛山影视,http://125.89.163.44:8888/udp/239.253.43.56:5146
 佛曰影视,http://fy27.zbds.top:55455/douyu/9671758
 使徒行者,http://1.94.31.214:35455/huya/23734256
@@ -205,36 +207,35 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+刑事侦缉档案,http://1.94.31.214:35455/huya/29465856
 刘哔电影,http://fy27.zbds.top:55455/douyu/2632223
+刘德华电影,http://1.94.31.214:35455/huya/11342424
 刘老师说电影,http://fy27.zbds.top:55455/douyu/8317926
-创世纪,http://1.94.31.214:35455/huya/29465852
 前任电影,http://fy27.zbds.top:55455/douyu/9329242
+功夫电影,http://1.94.31.214:35455/huya/11352941
 动作港片电影,http://fy27.zbds.top:55455/yy/1461037999
-动画剧集电影原声粤语国,http://fy27.zbds.top:55455/yy/1382859239
+动画电影放映厅,http://fy27.zbds.top:55455/huya/11352878
 南宁影视娱乐,https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 博然讲电影,http://fy27.zbds.top:55455/douyu/9561992
 卧虎藏龙,https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
-双喜电影,http://fy27.zbds.top:55455/yy/25519088
 发条张的电影最TOP,http://fy27.zbds.top:55455/douyu/2164691
 变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
-古天乐电影,http://1.94.31.214:35455/huya/29982675
 可乐撩电影,http://fy27.zbds.top:55455/douyu/9371552
-史诗级科幻电影阿凡达,http://fy27.zbds.top:55455/yy/1382735577
 叶尘说电影,http://fy27.zbds.top:55455/douyu/9252442
 同同电影,http://fy27.zbds.top:55455/douyu/10155359
 名侦探柯南,http://dns.yiandrive.com:15907/bilibili/1712960281
-吾聊电影,http://fy27.zbds.top:55455/huya/16424416
 周墨看电影,http://fy27.zbds.top:55455/douyu/9505584
 周星驰搞笑电影,http://fy27.zbds.top:55455/yy/38670875
 周星驰电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 哆啦A梦大雄与天空的理想乡,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4
 哆啦A梦大雄与天空的理想乡普通话,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4
 哈利影视,http://fy27.zbds.top:55455/douyu/8475821
-哈利波特全集,http://home.wwang.pw:35455/yy/1382745105
 哈利波特全集,http://liushizupu.site:35455/yy/1382745105
 哈利波特全集,http://www.douzhicloud.site:35455/yy/1382745105
+哈利波特全集,http://home.wwang.pw:35455/yy/1382745105
+哈利波特凤凰会的密令,https://v1.fentvoss.com/sdv1/202308/19/kL6HzXQ7Xi2/video/index.m3u8
 哈利波特死神的圣物,https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8
-哈利波特混血王子的背叛,https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8
+哈利波特消失的密室,https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8
 哈利波特火杯的考验,https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -251,10 +252,13 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
 国产动作电影,http://fy27.zbds.top:55455/yy/1382736858
 国产大片电影,http://fy27.zbds.top:55455/yy/1354926655
+国内奇幻电影大片,http://fy27.zbds.top:55455/yy/1382735627
 国内玄幻电影林正英,http://fy27.zbds.top:55455/yy/1354932444
 墨逗电影,http://fy27.zbds.top:55455/douyu/9614847
 夏洛特烦恼国内电影喜剧,http://fy27.zbds.top:55455/yy/1354936201
+大唐双龙传,http://1.94.31.214:35455/huya/23728674
 大壮撞电影,http://fy27.zbds.top:55455/douyu/9437349
+大时代,http://1.94.31.214:35455/huya/23865161
 大米饭影视,http://fy27.zbds.top:55455/douyu/9824094
 大荒电影,http://fy27.zbds.top:55455/douyu/3508538
 大趴电影院,http://fy27.zbds.top:55455/douyu/8747638
@@ -269,15 +273,19 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 安小闫说电影x,http://fy27.zbds.top:55455/douyu/1842621
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+家庭影院,http://114.252.238.87:8000/udp/239.3.1.93:4120
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 寻秦记,http://1.94.31.214:35455/huya/29465848
+射雕英雄传,http://1.94.31.214:35455/huya/23824164
 小丽说电影,http://fy27.zbds.top:55455/douyu/9368016
 小乔讲电影,http://fy27.zbds.top:55455/douyu/8413908
+小儛电影嘚啵嘚,http://fy27.zbds.top:55455/douyu/8362978
 小岛讲电影,http://fy27.zbds.top:55455/douyu/9390955
 小浅说电影,http://fy27.zbds.top:55455/douyu/9665834
 小涛讲电影V,http://fy27.zbds.top:55455/douyu/8415464
+小美爱电影,http://fy27.zbds.top:55455/huya/30483570
 小超讲电影,http://fy27.zbds.top:55455/douyu/3432645
 小马哥说电影,http://fy27.zbds.top:55455/douyu/9396672
 小鬼华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.xs?wsAuth=3c48b706fe90d736d90b5622adfc09d2&token=web-h5-0-3928-15d95fcfde11a749199abfc5ac7bdee6727c6402febadfb8&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
@@ -291,17 +299,19 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 幕撩电影,http://fy27.zbds.top:55455/douyu/9486015
 年代经典电影,http://fy27.zbds.top:55455/yy/1356363810
 广东影视,http://121.33.239.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111
 广州影视,http://14.112.86.85:4022/udp/239.253.43.73:5146
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
-广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111
-广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
+广州影视,http://113.101.245.67:9988/udp/239.253.43.73:5146
+广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 异形寄生起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
-影视剧颜老师,http://fy27.zbds.top:55455/douyu/12191214
+强森电影,http://1.94.31.214:35455/huya/21059581
+彭禺厶鬼怪奇幻系列电影,http://fy27.zbds.top:55455/yy/1355249116
 影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+影视插班生,http://fy27.zbds.top:55455/huya/29882513
 影视梗大叔,http://fy27.zbds.top:55455/douyu/9480648
-影视盛宴,http://fy27.zbds.top:55455/bilibili/12480732
 影视笑工场,http://fy27.zbds.top:55455/douyu/10298846
 影视集装箱,http://fy27.zbds.top:55455/douyu/8651489
 微笑影视解说,http://fy27.zbds.top:55455/douyu/9476790
@@ -311,8 +321,10 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 怪味爆米花电影,http://fy27.zbds.top:55455/douyu/9422144
 总之看电影,http://fy27.zbds.top:55455/douyu/8978669
 恐怖电影,http://fy27.zbds.top:55455/yy/24066336
+惊悚电影放映厅,http://fy27.zbds.top:55455/huya/26355795
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 我是吃泡面看电影,http://fy27.zbds.top:55455/douyu/8851063
+扁豆看电影2,http://fy27.zbds.top:55455/huya/21059623
 扫黄先锋,http://1.94.31.214:35455/huya/29465855
 拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
@@ -320,47 +332,50 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 撩电影8,http://fy27.zbds.top:55455/douyu/9351043
 敢死队精彩动作电影,http://fy27.zbds.top:55455/yy/1382735573
 新昌休闲影视Not247,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新海电影,http://fy27.zbds.top:55455/huya/29396806
 新疆石河子影视文体,http://124.88.144.73:1935/live/jjsh/playlist.m3u8
 无间道1,https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
 无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
 无间道3终极无间,https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
-无际电影,http://fy27.zbds.top:55455/douyu/9720498
 易说影视,http://fy27.zbds.top:55455/douyu/10859591
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星君说电影,http://fy27.zbds.top:55455/douyu/8014467
 星际穿越,https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
 晓晓说电影,http://fy27.zbds.top:55455/douyu/9430717
 晓麦讲电影,http://fy27.zbds.top:55455/douyu/453963
-晨晨的影视小窝,http://fy27.zbds.top:55455/yy/1382851576
 有部电影儿,http://fy27.zbds.top:55455/douyu/9736479
 末日系列外国电影合集,http://fy27.zbds.top:55455/yy/1354889019
 末日说电影,http://fy27.zbds.top:55455/douyu/9431125
+李连杰电影,http://1.94.31.214:35455/huya/11342390
 杭州影视,http://goo.bkpcp.top/mg/hzys
 松轩说电影,http://fy27.zbds.top:55455/douyu/1524969
 林九影视,http://fy27.zbds.top:55455/douyu/7212528
 林正英电影,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 林正英经典玄幻电影,http://fy27.zbds.top:55455/yy/1462895099
 梓帆说电影,http://fy27.zbds.top:55455/douyu/9769563
-梦梦影视,http://fy27.zbds.top:55455/huya/25129377
 楚哥说电影,http://fy27.zbds.top:55455/douyu/9375743
 楚汉骄雄,http://1.94.31.214:35455/huya/29465854
+槽槽说电影,http://fy27.zbds.top:55455/douyu/752376
 欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/2793084rIbiQ5ENq_2000.xs?wsAuth=e4f61a80fbd39502e58524bfc7bee217&token=web-h5-0-2793084-3f569b7e953394a7cfee075c2c4417db51e642dcbf319d4b&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
 欧美配音电影,http://fy27.zbds.top:55455/yy/1354693629
+止戈电影,http://fy27.zbds.top:55455/huya/19863777
 止戈电影解说,http://dns.yiandrive.com:15907/huya/19863777
 正说影视厅,http://fy27.zbds.top:55455/bilibili/32103848
 每日好电影V,http://fy27.zbds.top:55455/douyu/9533302
 汪哥说电影,http://fy27.zbds.top:55455/douyu/9312685
+沈腾电影,http://1.94.31.214:35455/huya/11601968
+法政先锋,http://1.94.31.214:35455/huya/23863804
 泡芙陪你看电影,http://fy27.zbds.top:55455/yy/24407222
-泡菜电影,http://fy27.zbds.top:55455/huya/29812160
 泰州三套影视娱乐,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
 洗冤录,http://1.94.31.214:35455/huya/29465851
 洛克电影,http://fy27.zbds.top:55455/douyu/9414884
+济南影视,http://221.0.78.198:1681/hls/10282/index.m3u8
 济南影视,http://124.128.73.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江影视,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浩贤说电影,http://fy27.zbds.top:55455/douyu/10535867
+海绵宝宝,http://dns.yiandrive.com:15907/bilibili/27482796
 涛浪浪电影,http://fy27.zbds.top:55455/douyu/5424258
 淘电影,http://114.252.238.87:8000/udp/239.3.1.250:8001
 港片电影,http://fy27.zbds.top:55455/yy/33897188
@@ -369,7 +384,6 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 湖北影视,http://113.57.20.158:9901/tsfile/live/1016_1.m3u8
 湖北影视,http://59.173.243.210:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://113.57.20.158:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
 满城尽带黄金甲,https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
 漫威影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
 漫威电影神奇女侠,http://fy27.zbds.top:55455/yy/1354933556
@@ -380,13 +394,15 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 烧脑悬疑电影,http://fy27.zbds.top:55455/yy/1382735571
 热血抗日电影,http://fy27.zbds.top:55455/yy/1382749907
 熊猫电影,http://fy27.zbds.top:55455/douyu/3506483
+爱情电影放映厅,http://fy27.zbds.top:55455/huya/29982639
 爱星影视,http://fy27.zbds.top:55455/douyu/9476806
 牛叔说电影,http://fy27.zbds.top:55455/douyu/2758565
 牛叔说电影二台,http://fy27.zbds.top:55455/douyu/10010651
 特辑电影院,http://fy27.zbds.top:55455/douyu/3637778
-狄仁杰之天宫蜃楼,https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
+狄仁杰电影,http://1.94.31.214:35455/huya/30080229
 狗毛电影,http://fy27.zbds.top:55455/douyu/9356637
 独立鱼电影,http://fy27.zbds.top:55455/douyu/2413555
+猛虎电影,http://fy27.zbds.top:55455/huya/24770988
 猫叔说电影,http://fy27.zbds.top:55455/douyu/9820039
 猫和老鼠,http://dns.yiandrive.com:15907/huya/11352879
 猫眼电影,http://fy27.zbds.top:55455/douyu/8726221
@@ -395,6 +411,7 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 玖月影视,http://fy27.zbds.top:55455/douyu/9339251
 珍珠港电影,http://fy27.zbds.top:55455/yy/1354936234
 珞珞说电影,http://fy27.zbds.top:55455/douyu/3718888
+甄子丹电影,http://1.94.31.214:35455/huya/11352935
 电影,http://fy27.zbds.top:55455/yy/37454459
 电影七十二变,http://fy27.zbds.top:55455/douyu/9323164
 电影九龙秘藏,https://ukzyvod3.ukubf5.com/20230615/f62WRA4Q/index.m3u8
@@ -404,34 +421,36 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 电影医者来时路,https://cdn12.yzzy-tv-cdn.com/20230220/19780_22a40f1d/index.m3u8
 电影古惑仔全集,http://fy27.zbds.top:55455/yy/1354507447
 电影吐槽汇,http://fy27.zbds.top:55455/douyu/9447668
-电影国外高分热门电影,http://fy27.zbds.top:55455/yy/1509338836
 电影大卫贝肯倒霉特工熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 电影大海怪,https://ukzyvod3.ukubf5.com/20230416/SMQI1Hjn/index.m3u8
 电影小班长,http://fy27.zbds.top:55455/douyu/549693
 电影山村旅店,https://ukzyvod3.ukubf5.com/20230528/AFk3qX8j/index.m3u8
 电影幕后喵,http://fy27.zbds.top:55455/douyu/8884074
-电影昆仑境,https://cdn15.yzzy-tv-cdn.com/20230610/15317_9ea0d662/index.m3u8
+电影成龙,https://live.metshop.top/huya/11342386
 电影昆塔反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 电影曼谷风云,https://cdn16.yzzy-tv-cdn.com/20230620/10364_a7afa251/index.m3u8
-电影枪战,https://live.metshop.top/huya/21059579
+电影最TOP2,http://fy27.zbds.top:55455/huya/29982676
 电影棉花糖和云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-电影武侠,https://live.metshop.top/huya/11342427
+电影沈腾,https://live.metshop.top/huya/11601968
 电影洪金宝,https://live.metshop.top/huya/11279251
 电影流浪地球2,https://cdn10.yzzy-tv-cdn.com/20230124/23895_527527bc/index.m3u8
 电影漩涡,http://fy27.zbds.top:55455/douyu/8706350
 电影热血,https://live.metshop.top/huya/11352934
 电影熊出没变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 电影爱欲四部曲2,https://ukzy.ukubf8.com/20230629/c70jrwJJ/index.m3u8
+电影狂人A,http://fy27.zbds.top:55455/huya/18715610
 电影猪猪侠英雄猪少年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+电影玄幻,https://live.metshop.top/huya/11342414
 电影电影电影电影电影电影,http://fy27.zbds.top:55455/yy/1351496216
 电影笔记,http://fy27.zbds.top:55455/douyu/9636034
 电影绝色狂花之龙迹神宫,https://cdn16.yzzy-tv-cdn.com/20230510/4888_37a72eb5/index.m3u8
 电影罪犯,https://live.metshop.top/huya/11352962
+电影英叔,https://live.metshop.top/huya/11342421
 电影赛车,https://live.metshop.top/huya/11279247
 电影迷小雅,http://fy27.zbds.top:55455/douyu/9639225
 电影院颜老师,http://fy27.zbds.top:55455/douyu/12192607
 电影顶级动作电影,http://fy27.zbds.top:55455/yy/24923327
-电影黄飞鸿燃爆武侠魂,http://fy27.zbds.top:55455/yy/1382736841
+电影黄渤,https://live.metshop.top/huya/11352876
 电影黑匣子,http://fy27.zbds.top:55455/douyu/8706652
 直播熊猫,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 看电影了没V,http://fy27.zbds.top:55455/douyu/9562616
@@ -447,19 +466,19 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 精彩动作电影享不停,http://fy27.zbds.top:55455/yy/1382736809
 精彩玄幻电影,http://fy27.zbds.top:55455/yy/1382688400
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-经典港片犯罪电影寒战,http://fy27.zbds.top:55455/yy/1382735559
 经典港片电影,http://fy27.zbds.top:55455/yy/1459801818
+经典电影,http://183.66.15.146:60901/tsfile/live/0111_2.m3u8
 经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
-经典电影,http://wouu.net:9977/udp/239.93.0.57:9024
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
+经典电影,http://wouu.net:9977/udp/239.93.0.57:9024
 经典电影,http://114.252.238.87:8000/udp/239.3.1.195:9024
 经典电影重温,http://fy27.zbds.top:55455/yy/1382793140
 经典老电影,http://fy27.zbds.top:55455/yy/1414874879
-绝版电影港片女鬼,http://fy27.zbds.top:55455/yy/1455988450
+绝地战警生死与共,https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
 绝版电影港片女鬼,http://fy27.zbds.top:55455/yy/1461579859
+绝版电影港片女鬼,http://fy27.zbds.top:55455/yy/1455988450
 维立方电影,http://fy27.zbds.top:55455/douyu/8706393
 美亚电影,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476212.m3u8
-老卓电影,http://fy27.zbds.top:55455/yy/1354770516
 老王的夜电影院,http://fy27.zbds.top:55455/douyu/3498219
 老电影故事,http://fy27.zbds.top:55455/douyu/9167273
 老邪说电影,http://fy27.zbds.top:55455/douyu/9222870
@@ -468,7 +487,6 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 莱纳电影,http://fy27.zbds.top:55455/douyu/9356937
 菠萝说电影,http://fy27.zbds.top:55455/douyu/3714736
 蓝翔华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/276200rR0hxzxiSE_2000.xs?wsAuth=c730a6bd353acb1cece18da714cad1ed&token=web-h5-90270207-276200-cc6734cdfb126f8dfd0af3f748a120f583360a45720d9797&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
-薇薇影视,http://fy27.zbds.top:55455/huya/30438923
 虫哥说电影,http://fy27.zbds.top:55455/douyu/8915074
 蜡笔小新,http://dns.yiandrive.com:15907/bilibili/30837590
 西施撩电影,http://fy27.zbds.top:55455/douyu/7532080
@@ -480,13 +498,13 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 谁语说电影,http://fy27.zbds.top:55455/douyu/8705754
 贝爷MAX影厅,http://tc-tct.douyucdn2.cn/dyliveflv1a/4332rHhZGIMT9vqg_2000.xs?wsAuth=6578dcb2c21076e10d5c93efda71bc8c&token=web-h5-0-4332-a25e54b4f06502c1019336fab3242923a3d590a0b6e027e7&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
 贝爷欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/252802r9ADrCZlEH_2000.xs?wsAuth=e6f0dcddab9fc91054c85ab3f859e4db&token=web-h5-0-252802-536492a84fc6fe0c5dc51394f3baa3efb83053784dcd97d9&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
-贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
 贝爷求生影视2,http://fy27.zbds.top:55455/douyu/9661369
+贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
 贝爷科幻影厅,http://tc-tct.douyucdn2.cn/dyliveflv1a/36337rdhzupjKkHQ_2000.xs?wsAuth=1a3132767dd07456ea843c8875827ea8&token=web-h5-0-36337-bca1b696bbbbe89460e90cd8b054cafd25d4977899882d74&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
 贰哥电影,http://fy27.zbds.top:55455/douyu/9338867
+贺岁电影,http://1.94.31.214:35455/huya/11601986
 超级电影,http://www.terrykang.xyz:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 超级英雄系列电影,http://fy27.zbds.top:55455/yy/1382736863
-辉辉影视,http://fy27.zbds.top:55455/huya/30357181
 辰哥说电影,http://fy27.zbds.top:55455/douyu/9371407
 辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
@@ -494,37 +512,37 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 逐梦电影,http://fy27.zbds.top:55455/douyu/4058285
 逗米说电影,http://fy27.zbds.top:55455/douyu/421222
 邵氏影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/4246519rQqvCVqbw_4000.xs?wsAuth=ce75f6cd957b292b7be9ebd25530dee9&token=web-h5-0-4246519-126295b0785b4fb54b77a0f6e5d0d2962fd9dac31912c9da&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+酱婶儿电影,http://fy27.zbds.top:55455/huya/24396474
 野山鹰影视剧,http://fy27.zbds.top:55455/yy/1354932395
 野格影视,http://fy27.zbds.top:55455/douyu/9931766
 野蛮亲家,http://1.94.31.214:35455/huya/23863796
-金庸武侠,http://1.94.31.214:35455/huya/11342435
+金枝欲孽,http://1.94.31.214:35455/huya/23865036
 鉴证实录,http://1.94.31.214:35455/huya/23903183
 钱小元说电影,http://fy27.zbds.top:55455/douyu/9368265
 铁血影视汇,http://fy27.zbds.top:55455/douyu/9649701
 铃芽之旅日语原声,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/137/798/5105137798/media/5105137798_5195915769_56.mp4
 铃芽之旅普通话,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/205/437/5105205437/media/5105205437_5195916136_56.mp4
 阴阳师,https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8
-阿光影视,http://fy27.zbds.top:55455/huya/30292086
 阿凡达水之道,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5101/004/544/5101004544/media/5101004544_5091261956_56.mp4
 阿凡达水之道普通话,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/080/728/5105080728/media/5105080728_5091264010_56.mp4
-阿彬影视1,http://fy27.zbds.top:55455/bilibili/1823572559
 阿木讲电影,http://fy27.zbds.top:55455/douyu/532050
 阿苏电影,http://fy27.zbds.top:55455/douyu/9037784
 陀枪师姐,http://1.94.31.214:35455/huya/29465857
 陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 青春动漫BestTV,http://wouu.net:9977/udp/239.93.0.146:5140
 风雨大魔王电影解说,http://fy27.zbds.top:55455/douyu/4626315
-飞鹰影视,http://fy27.zbds.top:55455/huya/30380813
+香兰爱影视,http://fy27.zbds.top:55455/douyu/9487090
 驴哥说电影,http://fy27.zbds.top:55455/douyu/5376478
-鬼舞村诅咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
 魔戒三部曲王者再临,https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
 魔戒二部曲双城奇谋,https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
 魔戒二部曲双城奇谋,https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-魔戒首部曲魔戒现身,https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
 魔戒首部曲魔戒现身,https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
+魔戒首部曲魔戒现身,https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
 鲨说电影,http://fy27.zbds.top:55455/douyu/9544628
 鸡哥聊电影,http://fy27.zbds.top:55455/douyu/5067952
+鹏友说电影,http://fy27.zbds.top:55455/huya/29340612
 鹏友说电影,http://fy27.zbds.top:55455/douyu/9445244
+黄渤电影,http://1.94.31.214:35455/huya/11352876
 黑龙江影视,http://112.101.78.50:9901/tsfile/live/1011_1.m3u8
 黑龙江影视,http://39.134.67.108/PLTV/88888888/224/3221225973/1.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
@@ -532,14 +550,15 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
 体育频道,#genre#
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
  精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+ 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
  超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
  精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+ 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
  超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
+综艺频道,#genre#
+ 金牌综艺,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+ 金牌综艺,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 •游戏「赛事」,#genre#
 「B站」热门赛事,http://dns.yiandrive.com:15907/bilibili/10
 「B站」CS 2,https://live.iill.top/bilibili/21622811
@@ -595,7 +614,7 @@ iHOT爱院线,http://livetv.wqwqwq.sbs/itv/6000000006000030630.m3u8?cdn=wasusyt
 「斗鱼」火影忍者,https://live.iill.top/douyu/1997723
 「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
-💚更新时间02-08,#genre#
+💚更新时间02-09,#genre#
 仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 💥轮播｜限时,#genre#
 剧集_泊枫剧场1,http://huanqiuzhibo.cn/manifest/douyu.php?id=7623292
