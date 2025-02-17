@@ -393,6 +393,8 @@ XilamTV,https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 「斗鱼」火影忍者,https://live.iill.top/douyu/1997723
 「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
+💚更新时间02-17,#genre#
+仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 💥轮播｜限时,#genre#
 剧集_泊枫剧场1,http://huanqiuzhibo.cn/manifest/douyu.php?id=7623292
 剧集_檬檬功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9838414
