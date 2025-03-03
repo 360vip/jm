@@ -79,3 +79,5 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-id="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/newtvcjty.png" group-title="体育频道", 超级体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.zbds.top/logo/金牌综艺.png" group-title="综艺频道", 金牌综艺
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
