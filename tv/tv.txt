@@ -55,32 +55,35 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
  安徽卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226391/index.m3u8
  北京卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8
  东方卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226345/index.m3u8
- 东南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225657/2/index.m3u8
+ 东南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226341/index.m3u8
+ 甘肃卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225724/2/index.m3u8
  广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8
- 广西卫视,http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8
- 贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
- 海南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
+ 广西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225731/2/index.m3u8
+ 贵州卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+ 海南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
  河北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
- 河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
- 湖北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8
- 吉林卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
- 江苏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
- 江西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
- 辽宁卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
+ 河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8
+ 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225740/2/index.m3u8
+ 吉林卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226397/index.m3u8
+ 江苏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
+ 江西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225746/2/index.m3u8
+ 辽宁卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225735/2/index.m3u8
  旅游卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226212/index.m3u8?fmt=ts2hls
- 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
- 山东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
- 山西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
+ 宁夏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225726/2/index.m3u8
+ 青海卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
+ 山东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225738/2/index.m3u8
+ 山西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
  陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
  深圳卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8
- 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
+ 四川卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
  天津卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225739/2/index.m3u8
- 新疆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
+ 西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8
+ 新疆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225725/2/index.m3u8
  云南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
- 浙江卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226339/index.m3u8
- 重庆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+ 浙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
+ 重庆卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225734/2/index.m3u8
  东方卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226345/index.m3u8
- 黑龙江卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+ 黑龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225690/2/index.m3u8
  内蒙古卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8
  金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -119,9 +122,69 @@ CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?Guard
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山东教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+体育频道,#genre#
+ 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+ 超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
+ 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+ 超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
+•游戏「赛事」,#genre#
+「B站」热门赛事,http://dns.yiandrive.com:15907/bilibili/10
+「B站」CS 2,https://live.iill.top/bilibili/21622811
+「虎牙」CS 2,https://live.iill.top/huya/483917
+「B站」英雄联盟,https://live.iill.top/bilibili/6
+「虎牙」英雄联盟 𝟙,https://live.iill.top/huya/660000
+「虎牙」英雄联盟 𝟚,https://live.iill.top/huya/660001
+「斗鱼」英雄联盟 𝟙,https://live.iill.top/douyu/288016
+「斗鱼」英雄联盟 𝟚,https://live.iill.top/douyu/424559
+「B站」英雄联盟•手游,https://live.iill.top/bilibili/23138275
+「B站」王者荣耀 𝟙,https://live.iill.top/bilibili/55
+「B站」王者荣耀 𝟚,https://live.iill.top/bilibili/21654762
+「虎牙」王者荣耀 𝟙,https://live.iill.top/huya/660002
+「虎牙」王者荣耀 𝟚,https://live.iill.top/huya/660164
+「斗鱼」王者荣耀 𝟙,https://live.iill.top/douyu/1863767
+「斗鱼」王者荣耀 𝟚,https://live.iill.top/douyu/1984839
+「B站」绝地求生,https://live.iill.top/bilibili/98
+「虎牙」绝地求生 𝟙,https://live.iill.top/huya/660004
+「虎牙」绝地求生 𝟚,https://live.iill.top/huya/660005
+「斗鱼」绝地求生,https://live.iill.top/douyu/100
+「虎牙」和平精英,https://live.iill.top/huya/660006
+「斗鱼」和平精英,https://live.iill.top/douyu/999
+「虎牙」金铲铲之战,https://live.iill.top/huya/660579
+「斗鱼」金铲铲之战,https://live.iill.top/douyu/9715241
+「虎牙」DOTA2,https://live.iill.top/huya/660118
+「斗鱼」DOTA2,https://live.iill.top/douyu/3811559
+「斗鱼」云顶之弈,https://live.iill.top/douyu/522423
+「虎牙」永劫无间,https://live.iill.top/huya/660115
+「斗鱼」永劫无间,https://live.iill.top/huya/9662891
+「B站」使命召唤•手游,https://live.iill.top/bilibili/22741849
+「虎牙」使命召唤•手游,https://live.iill.top/huya/11718629
+「斗鱼」使命召唤•手游,https://live.iill.top/douyu/9223245
+「虎牙」穿越火线,https://live.iill.top/huya/660101
+「斗鱼」穿越火线 𝟙,https://live.iill.top/douyu/605964
+「斗鱼」穿越火线 𝟚,https://live.iill.top/douyu/5388537
+「虎牙」穿越火线•手游,https://live.iill.top/huya/660102
+「B站」第五人格,https://live.iill.top/bilibili/5555
+「虎牙」第五人格,https://live.iill.top/huya/idvesports
+「斗鱼」第五人格,https://live.iill.top/douyu/3226194
+「虎牙」逆战,https://live.iill.top/huya/nsl2021
+「B站」无畏契约,https://live.iill.top/bilibili/22908869
+「虎牙」无畏契约,https://live.iill.top/huya/660679
+「斗鱼」无畏契约,https://live.iill.top/douyu/4585645
+「斗鱼」原神,https://live.iill.top/douyu/10853239
+「B站」QQ飞车•手游,https://live.iill.top/bilibili/21743919
+「斗鱼」QQ飞车•手游,https://live.iill.top/douyu/5040227
+「斗鱼」梦幻西游·手游,https://live.iill.top/huya/9163712
+「斗鱼」街霸,https://live.iill.top/huya/11437
+「B站」JJ斗地主,https://live.iill.top/bilibili/22021983
+「斗鱼」JJ斗地主,https://live.iill.top/douyu/488743
+「斗鱼」我的世界,https://live.iill.top/douyu/738878
+「斗鱼」FIFA,https://live.iill.top/douyu/7692166
+「斗鱼」火影忍者,https://live.iill.top/douyu/1997723
+「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
+「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
+💚更新时间03-05,#genre#
+仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 电影频道,#genre#
- 黑龙江影视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
- 黑龙江影视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
@@ -356,79 +419,6 @@ iHOT爱院线,http://34.81.243.214:50001/TVOD/2000000004000000034/hnbblive/index
 黑龙江影视,http://112.99.193.34:9901/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-体育频道,#genre#
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
- 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
- 睛彩竞技,http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8
- 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
- 超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
- CCTV5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
- 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
- 睛彩竞技,http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8
- 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
- 超级体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
-综艺频道,#genre#
- 金牌综艺,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
- 金牌综艺,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-•游戏「赛事」,#genre#
-「B站」热门赛事,http://dns.yiandrive.com:15907/bilibili/10
-「B站」CS 2,https://live.iill.top/bilibili/21622811
-「虎牙」CS 2,https://live.iill.top/huya/483917
-「B站」英雄联盟,https://live.iill.top/bilibili/6
-「虎牙」英雄联盟 𝟙,https://live.iill.top/huya/660000
-「虎牙」英雄联盟 𝟚,https://live.iill.top/huya/660001
-「斗鱼」英雄联盟 𝟙,https://live.iill.top/douyu/288016
-「斗鱼」英雄联盟 𝟚,https://live.iill.top/douyu/424559
-「B站」英雄联盟•手游,https://live.iill.top/bilibili/23138275
-「B站」王者荣耀 𝟙,https://live.iill.top/bilibili/55
-「B站」王者荣耀 𝟚,https://live.iill.top/bilibili/21654762
-「虎牙」王者荣耀 𝟙,https://live.iill.top/huya/660002
-「虎牙」王者荣耀 𝟚,https://live.iill.top/huya/660164
-「斗鱼」王者荣耀 𝟙,https://live.iill.top/douyu/1863767
-「斗鱼」王者荣耀 𝟚,https://live.iill.top/douyu/1984839
-「B站」绝地求生,https://live.iill.top/bilibili/98
-「虎牙」绝地求生 𝟙,https://live.iill.top/huya/660004
-「虎牙」绝地求生 𝟚,https://live.iill.top/huya/660005
-「斗鱼」绝地求生,https://live.iill.top/douyu/100
-「虎牙」和平精英,https://live.iill.top/huya/660006
-「斗鱼」和平精英,https://live.iill.top/douyu/999
-「虎牙」金铲铲之战,https://live.iill.top/huya/660579
-「斗鱼」金铲铲之战,https://live.iill.top/douyu/9715241
-「虎牙」DOTA2,https://live.iill.top/huya/660118
-「斗鱼」DOTA2,https://live.iill.top/douyu/3811559
-「斗鱼」云顶之弈,https://live.iill.top/douyu/522423
-「虎牙」永劫无间,https://live.iill.top/huya/660115
-「斗鱼」永劫无间,https://live.iill.top/huya/9662891
-「B站」使命召唤•手游,https://live.iill.top/bilibili/22741849
-「虎牙」使命召唤•手游,https://live.iill.top/huya/11718629
-「斗鱼」使命召唤•手游,https://live.iill.top/douyu/9223245
-「虎牙」穿越火线,https://live.iill.top/huya/660101
-「斗鱼」穿越火线 𝟙,https://live.iill.top/douyu/605964
-「斗鱼」穿越火线 𝟚,https://live.iill.top/douyu/5388537
-「虎牙」穿越火线•手游,https://live.iill.top/huya/660102
-「B站」第五人格,https://live.iill.top/bilibili/5555
-「虎牙」第五人格,https://live.iill.top/huya/idvesports
-「斗鱼」第五人格,https://live.iill.top/douyu/3226194
-「虎牙」逆战,https://live.iill.top/huya/nsl2021
-「B站」无畏契约,https://live.iill.top/bilibili/22908869
-「虎牙」无畏契约,https://live.iill.top/huya/660679
-「斗鱼」无畏契约,https://live.iill.top/douyu/4585645
-「斗鱼」原神,https://live.iill.top/douyu/10853239
-「B站」QQ飞车•手游,https://live.iill.top/bilibili/21743919
-「斗鱼」QQ飞车•手游,https://live.iill.top/douyu/5040227
-「斗鱼」梦幻西游·手游,https://live.iill.top/huya/9163712
-「斗鱼」街霸,https://live.iill.top/huya/11437
-「B站」JJ斗地主,https://live.iill.top/bilibili/22021983
-「斗鱼」JJ斗地主,https://live.iill.top/douyu/488743
-「斗鱼」我的世界,https://live.iill.top/douyu/738878
-「斗鱼」FIFA,https://live.iill.top/douyu/7692166
-「斗鱼」火影忍者,https://live.iill.top/douyu/1997723
-「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
-「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
-💚更新时间03-05,#genre#
-仅供学习使用,http://ali.hlspull.yximgs.com/live/asdfg863678266.flv
 💥虎牙｜精选①,#genre#
 电视剧场一,http://home.wwang.pw:35455/huya/29465862
 电视剧场二,http://home.wwang.pw:35455/huya/11336591
